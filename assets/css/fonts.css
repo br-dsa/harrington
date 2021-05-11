@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Manifold DSA";
+  src: url("/fonts/ManifoldDSA-DemiBold.woff2") format("woff2"),
+       url("/fonts/ManifoldDSA-DemiBold.woff") format("woff"),
+       url("/fonts/ManifoldDSA-DemiBold.eot") format("eot");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Manifold DSA";
+  src: url("/fonts/ManifoldDSA-Heavy.woff2") format("woff2"),
+       url("/fonts/ManifoldDSA-Heavy.woff") format("woff"),
+       url("/fonts/ManifoldDSA-Heavy.eot") format("eot");
+  font-weight: 900;
+}
